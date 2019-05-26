@@ -5,4 +5,4 @@ Niceblog nace como un proyecto para aprender a utilizar **Git** y **GitHub**, cu
 >Creado por Víctor Landa
 >A través del proyecto vemos el flujo de trabajo en GitHub
 >Creado por Víctor Landa
->🎃🎃🎃
+>🎃
